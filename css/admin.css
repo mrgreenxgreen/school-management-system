@@ -1,0 +1,11 @@
+
+table , tr, th, td {
+    border:1px red solid;
+    border-collapse: collapse;
+    padding: 5px;
+    font-size: 15px;
+    
+
+}
+
+

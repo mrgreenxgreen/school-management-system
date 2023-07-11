@@ -1,6 +1,6 @@
 # school-management-system
 
-Monolithic : PHP + MySQO + HTML + CSS
+Monolithic : PHP + MySQL + HTML + CSS
 
 Student role:
 This School Management System allows students to post, text only or with image, to newsfeed similar to social media apps, and it also allows them to view their subjects and grades.
